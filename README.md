@@ -1,4 +1,4 @@
-# node-todo-cicd
+# Node todo pipeline
 
 Run these commands:
 
